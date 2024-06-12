@@ -1,0 +1,24 @@
+img{
+    display: flex;
+    justify-content: center;
+}
+
+.limitedwidth{
+    width: 25%;
+
+}
+
+.flexed{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.content1 {
+    display: flex;
+    justify-content: center;
+}
